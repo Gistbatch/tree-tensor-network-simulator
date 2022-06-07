@@ -26,3 +26,9 @@ To recreate the data and plots run `python3 recreate_data.py`
 Comparison with matrix product state (MPS) simulation
 -----------------------------------------------------
 For benchmark comparisons, we also include a MPS-based statevector simulator in the [mps_circuit_sim/](mps_circuit_sim/) subfolder. The code supports general "qudits".
+
+
+Publiccation
+------------
+
+The prerint of the paper is avaolable on [arxiv](https://arxiv.org/abs/2206.01000).
